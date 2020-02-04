@@ -11,3 +11,7 @@ Hello DPS World! I'm Christine, nice to meet you all.
 ![](assets/images/christine.png)
 
 ![](/assets/images/christine.png)
+
+# Christine
+# Product Manager
+
