@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product manager - Christine"
+title: "Christine"
 description: "The first 'Hello world' post for Simple Texture theme."
 categories: [uncategorized]
 tags: [random, jekyll]
