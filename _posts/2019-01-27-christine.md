@@ -8,9 +8,7 @@ redirect_from:
 ---
 Hello DPS World! I'm Christine, nice to meet you all.
 
-![](assets/images/christine.png)
-
-![](/assets/images/christine.png)
+<img src="https://github.com/team-cero/team-cero.github.io/blob/master/assets/images/christine.png" alt="negi" width="200" height="200">
 
 # Christine
 # Product Manager
