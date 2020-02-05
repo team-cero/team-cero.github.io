@@ -46,7 +46,7 @@ author:
       url: https://twitter.com/dpschool_io
 
 home:
-  section1: <h1>Cero</h1>
+  section1: /assets/images/theme/logo.png
   section2: <h2>We are cero team, and we want to make citizens' mobility climate-neutral</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/team-cero" title="View on GitHub"></a></div>
 blog:
