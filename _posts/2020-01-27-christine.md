@@ -6,10 +6,22 @@ categories: [uncategorized]
 tags: [random, jekyll]
 redirect_from:
 ---
-Hello DPS World! I'm Christine, nice to meet you all.
-
-<img src="https://github.com/team-cero/team-cero.github.io/blob/master/assets/images/christine.png">
-
 # Christine
-# Product Manager
+<h2>Product Manager</h2>
+
+
+<table>
+  <tr>
+    <th>
+      <img src="https://github.com/team-cero/team-cero.github.io/blob/master/assets/images/christine.png">
+    </th>
+    <th>
+      <p> Hello DPS World! I'm Christine, nice to meet you all. 🏝️🧘 </p>
+    </th>
+  </tr>  
+  </table>
+
+
+
+
 
